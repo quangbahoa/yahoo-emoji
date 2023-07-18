@@ -1,613 +1,151 @@
-Yahoo Messenger Emoji
-
-Original fork from http://emoji.digital/yahoo-messenger/
-
-Yahoo
-
-http://slangit.com/emoticons/shortcuts/yahoo_messenger
-https://pc.net/emoticons/shortcuts/yahoo
-http://www.emoticonr.com/emoticons/yahoo
-
-Code Unicode Description Image
-;;) #3 
-
-Batting Eyelashes
-
- Batting Eyelashes
-;)) 🤭 (Unicode 10) 
-
-Giggle or hee hee
-
- Giggle
-;) 😉 
-
-Winking
-
- Winking
-:-?? 😕 😔 😖 😯 😦 
-
-Confused or I don't know
-
- Confused
-:-? 🤔 😔 
-
-Thinking
-
- Thinking
-:-" (😗 😙) 
-
-Whistling
-
- Whistling
-:-@ 
-
-Chatterbox
-
- Chatterbox
-:-* 😘 😗 😙 😚 
-
-Kiss
-
- Kiss
-:-/ 😕 
-
-Confused
-
- Confused
-:-& 🤢 
-
-Sick
-
- Sick
-:-< (😥 😟 😞 😤) 
-
-Sigh
-
- Sigh
-:-$ 🤫 (Unicode10) 🤐 (🙊 😶) 
-
-Do Not Tell Anyone
-
- Do Not Tell Anyone
-:-B 🤓 
-
-Nerd
-
- Nerd
-:-j (😒) 
-
-Oh Go On
-
- Oh Go On
-:-L (😖 😟 😞) 
-
-Frustrated
-
- Frustrated
-:-O 😮😯 
-
-Surprised
-
- Surprised
-:-S 😟 
-
-Worried
-
- Worried
-:-SS 😨 😧 😱 
-
-Nail biting
-
- Nailbiting
-:!! (⌚️ ⏲ ⏰ ⏱) 
-
-Hurry Up
-
- Hurry Up
-:(( 😢😭 
-
-Crying
-
- Crying
-:( ☹️🙁 
-
-Sad or frown face
-
- Sad
-:(|) 🐵 
-
-Monkey
-
- Monkey
-:)) 😀 😃 😄 😆 
-
-Laughing
-
- Laughing
-:)] 🤙? 
-
-On the Phone
-
- On the Phone
-:) ☺️ 🙂 😊 
-
-Smile or happy face
-
- Smile
-:)>- ✌️ 
-
-Peace
-
- Peace
-:@) 🐷 
-
-Pig
-
- Pig
-:^o 🤥 
-
-Liar Liar
-
- Liar Liar
-:> 😤? 😏? 
-
-Smug
-
- Smug
-:| 😐😑 
-
-Straight face
-
- Straight face
-:D 😀😃 
-
-Big Grin
-
- Big Grin
-:O) 🤡 
-
-Clown
-
- Clown
-:o3 🐶 
-
-Dog
-
- Dog
-:P 😛 (😋 😖 😫) 
-
-Frustrated or Sticking Tongue Out
-
- Sticking Tongue Out
-:x 😍 (😚 😘 😗 😙) 
-
-Love Struck
-
- Love Struck
-(:| 😫 😪 😑 😐 
-
-Yawn
-
- Yawn
-[-( (😡 😶 😒) 
-
-Not talking
-
- Not talking
-[-o< 🙏 (🙇) 
-
-Praying
-
- Praying
-[-x (☝️) 
-
-Shame on You
-
- Shame on You
-@-) 😵 💫 
-
-Hypnotized
-
- Hypnotized
-*-:) 💡 🕯 
-
-Idea
-
- Idea
-/:) (Unicode 10) 🤨 
-
-Raised Eyebrow
-
- Raised Eyebrow
-#-o 🤦? 
-
-Doh!
-
- D’oh!
-#:-S 😅 😥 😖? 
-
-Whew
-
- Whew
-%-( (🙉) 
-
-Not Listening
-
- Not Listening
-<:-P 😛 (🎉 🎊) 
-
-Party
-
- Party
-<):) 🤠 
-
-Cowboy
-
- Cowboy
-=; 🖐 ✋ 
-
-Talk to the Hand
-
- Talk to the Hand
-=:) 🐛? 
-
-Bug
-
- Bug
-="> 😳 
-
-Blushing
-
- Blushing
-=(( 💔? 
-
-Broken Heart
-
- Broken Heart
-=)) 🤣 
-
-Rolling on the Floor Laughing
-
- Rolling on the Floor Laughing
-=D> 👏 
-
-Applause
-
- Applause
-=P~ 🤤 
-
-Drooling
-
- Drooling
->-) 👽 👾 
-
-Alien
-
- Alien
->:) 😈 👿 👹 
-
-Devil
-
- Devil
->:/ 😏 (🤚) 
-
-Bring it On
-
- Bring it On
->:P 😝? 
-
-Phbbbbt or upset
-
- Phbbbbt
-|-) 😪 😫 😩 
-
-Sleepy
-
- Sleepy
-~:> 🐔 
-
-Chicken
-
- Chicken
-~X( 😖 😫 😵? 
-
-At Wits End
-
- At Wits End
-$-) 🤑 
-
-Money Eyes
-
- Money Eyes
-3:-O 🐮 
-
-Cow
-
- Cow
-8-} 🤪 (Unicode10) 
-
-Silly
-
- Silly
-8-> 
-
-Daydreaming
-
- Daydreaming
-8-| 🙄 
-
-Rolling Eyes
-
- Rolling Eyes
-8-X 💀 ☠️ 
-
-Skull
-
- Skull
-b-( 
-
-Beat Up
-
- Beat Up
-b-) 
-
-Beat Up
-
- Beat up
-B-) 😎 (🕶) 
-
-Sunglasses or cool
-
- Cool, Sunglasses
-L-) #26 
-
-Loser
-
- Loser
-O:) 😇 👼 
-
-Angel
-
- Angel
-X( (😖 😣 😡) 
-
-Angry or Grumpy
-
- Angry
-Code Unicode Description Image
->:D< 🤗 
-
-Big Hug
-
- Big Hug
-\:D/ 🙌 💃 
-
-Dancing
-
- Dancing
-^:)^ 🙇? 
-
-Not Worthy
-
- Not Worthy
-^#(^ 👐? 
-
-It Was Not Me
-
- It Was Not Me
-X_X (🙈 😵) 
-
-I Do Not Want to See
-
- I Do Not Want to See
-[..] 🤖 👾 
-
-Transformer
-
- Transformer
-Code Unicode Description Image
-:-bd 👍 
-
-Thumbs Up
-
- Thumbs Up
-:-c 🤙 
-
-Call Me
-
- Call Me
-:-h 👋 
-
-Wave
-
- Wave
-:-q 👎 
-
-Thumbs Down
-
- Thumbs Down
-:-t 
-
-Time Out
-
- Time Out
-:-w 
-
-Waiting
-
- Waiting
-:ar! #148 
-
-Pirate
-
- Pirate
-:bz 🐝 
-
-Bee
-
- Bee
-Code Unicode Description Image
-(*) ⭐️ 🌟 (✨) 
-
-Star
-
- Star
-(%) ☯️ 
-
-Yin Yang
-
- Yin Yang
-(~~) 🎃 
-
-Pumpkin
-
- Pumpkin
-@};- 🌹 
-
-Rose
-
- Rose
-**== 🇺🇸 
-
-United States Flag
-
- United States Flag
-\m/ 🤘 
-
-Rocking
-
- Rocking
-%%- 🍀 
-
-Good luck or Four Leaf Clover
-
- Four Leaf Clover
-~o) ☕️ 
-
-Cup of Coffee
-
- Cup of Coffee
-0-+ ♀️ 👩 
-
-April
-
- April
-o-> ♂️ 👨 
-
-Hiro
-
- Hiro
-o=> ⚣️ 🧑 
-
-Billy
-
- Billy
-
-Proposals
-
-L2/09-007 Comparison of Emoticons from Major Vendors by Arle Lommel: Unification of emoticon characters with current proposals for encoding emoji (v1.5, 2008-12-26) – Skype Skype emoticons list #253, Microsoft Messenger Microsoft/Windows Live / MSN Messenger emoticons list #256, Yahoo Messenger, AIM AOL Instant Messenger (AIM) emoticons list #257, Google Google Gmail/Hangouts emoticons list #252, phpBB phpBB Emoticon list #281, vBulletin.
-
-Conclusion
-
-While some Yahoo emoticons have no definite Unicode counterpart, but several closely related ones, some have no standard equivalent at all or would require a canonical emoji sequence:
-
-
-
-Batting Eyelashes Face Wearing Makeup emoji #3
-
-
-Chatterbox
-
-
-Oh Go on
-
-
-Hurry up
-
-
-On the phone
-
-
-Peace
-
-
-Love Struck
-
-
-Not Talking
-
-
-Praying
-
-
-Shame on you
-
-
-Idea
-
-
-Not listening
-
-
-Talk to the Hand
-
-
-Broken Heart
-
-
-Applause
-
-
-Bring it on
-
-
-Phbbbt
-
-
-At Wits End
-
-
-Daydreaming
-
-
-Beat up
-
-
-Loser
-
-
-Dancing
-
-
-Not Worthy
-
-
-It was not Me
-
-
-I do not want to See
-
-
-Thumbs up
-
-
-Call Me
-
-
-Wave
-
-
-Thumbs down
-
-
-Time out
-
-
-Waiting
-
-
-Pirate Face with Eyepatch emoji #148
-
-
-Rocking
+### Yahoo Messenger Emoji
+
+- Original fork from http://emoji.digital/yahoo-messenger/
+
+> # Yahoo
+> * http://slangit.com/emoticons/shortcuts/yahoo_messenger
+> * https://pc.net/emoticons/shortcuts/yahoo
+> * http://www.emoticonr.com/emoticons/yahoo
+> 
+> Code	Unicode	Description	Image
+> `;;)`	#3	![Batting Eyelashes](https://camo.githubusercontent.com/566afe716cfe32b585f6a394560a3cfd36e5a3734cebf21e32c348bfa3450ca5/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f62617474696e672d6579656c61736865732e676966)	Batting Eyelashes
+> `;))`	[🤭 (Unicode 10)](http://emojipedia.org/smiling-face-with-smiling-eyes-and-hand-covering-mouth/)	![Giggle or hee hee](https://camo.githubusercontent.com/a66a6fd65c1e36c777904f4f057f1a4dd65c20b8f69c662170979da0eb72d096/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f676967676c652d6f722d6865652d6865652e676966)	Giggle
+> `;)`	😉	![Winking](https://camo.githubusercontent.com/2c520df7fe1cdcaea78eced1774a1feb01e817c620738318ac4739e680a9cf0b/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f77696e6b696e672e676966)	Winking
+> `:-??`	😕 😔 😖 😯 😦	![Confused or I don't know](https://camo.githubusercontent.com/e54b9416c82d62bf1e32dbd590398d578ef4cbefaf1fefe00994561a315cceb0/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f636f6e66757365642d6f722d692d646f6e27742d6b6e6f772e676966)	Confused
+> `:-?`	🤔 😔	![Thinking](https://camo.githubusercontent.com/3cbbbb73d609b0e7d37d50177a39f63341e893c8346fb6234b7d297268aa9b43/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7468696e6b696e672e676966)	Thinking
+> `:-"`	(😗 😙)	![Whistling](https://camo.githubusercontent.com/494c8ef78547d9ab9fc026dd8d5febaf6b2ecfa33fa8f2502d714475ff73e829/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f77686973746c696e672e676966)	Whistling
+> `:-@`		![Chatterbox](https://camo.githubusercontent.com/bf78dec567bd17e95c98844e5538df9eeb48ebfc07763a352aa530d1a23233ad/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f63686174746572626f782e676966)	Chatterbox
+> `:-*`	😘 😗 😙 😚	![Kiss](https://camo.githubusercontent.com/1a135d6644cd47740009a609152e889673a7c35911fc5936bd2a62fc16bd6391/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6b6973732e676966)	Kiss
+> `:-/`	😕	![Confused](https://camo.githubusercontent.com/7ef639922d786d4cf2cd47c2090fe3c14b54571392f33ecdc2e8d84475d97e11/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f636f6e66757365642e676966)	Confused
+> `:-&`	🤢	![Sick](https://camo.githubusercontent.com/f16c143d23ceb771780997ba2c9ce31deb6a1ded63fa5b4a92f1daed0e9e4652/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7369636b2e676966)	Sick
+> `:-<`	(😥 😟 😞 😤)	![Sigh](https://camo.githubusercontent.com/9eb6ad26041df650faeea088708108b7698b01339ab7aae8128c96a1601484c1/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f736967682e676966)	Sigh
+> `:-$`	[🤫 (Unicode10)](http://emojipedia.org/face-with-finger-covering-closed-lips/) 🤐 (🙊 😶)	![Do Not Tell Anyone](https://camo.githubusercontent.com/ac0c75afb4bc877f3fa63e51014b587c2d43a4b78b17a02461e2eadecac9111c/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f646f2d6e6f742d74656c6c2d616e796f6e652e676966)	Do Not Tell Anyone
+> `:-B`	🤓	![Nerd](https://camo.githubusercontent.com/ef31e0c827dfb113749f199fb180cee7b26634a10695a74b7fde2c0ae6605567/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6e6572642e676966)	Nerd
+> `:-j`	(😒)	![Oh Go On](https://camo.githubusercontent.com/50a56c9dfecd5e0ff886ce386a0d4bdb7120c786acb4df3bf645aa2a1f512672/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6f682d676f2d6f6e2e676966)	Oh Go On
+> `:-L`	(😖 😟 😞)	![Frustrated](https://camo.githubusercontent.com/2bb9b344fd9b6206344767c8d1dcf558b917445acd3641e40856948a6e8fac46/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f667275737472617465642e676966)	Frustrated
+> `:-O`	😮😯	![Surprised](https://camo.githubusercontent.com/024b9c86bbd271611d55af0f10d7eabeaf2ee66ee1e0fbf7d2377f906afc5f02/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7375727072697365642e676966)	Surprised
+> `:-S`	😟	![Worried](https://camo.githubusercontent.com/a4508347a481d659ba2fea84455dfc33f8f6966d576b5406b1a1ee9b6ebda319/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f776f72726965642e676966)	Worried
+> `:-SS`	😨 😧 😱	![Nail biting](https://camo.githubusercontent.com/7c17f61746a1d4e27ccc2f3b79d5184770b0ca5e92b2e6b60d19f8eb783a19f4/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6e61696c2d626974696e672e676966)	Nailbiting
+> `:!!`	(⌚️ ⏲ ⏰ ⏱)	![Hurry Up](https://camo.githubusercontent.com/50021fd800ec5283d90612cc816984c4153caa4f28ac91deecb0b6dc8159b16f/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f68757272792d75702e676966)	Hurry Up
+> `:((`	😢😭	![Crying](https://camo.githubusercontent.com/8edcccbb837300362bad253b1849f01af4c7ba6f4cb81ec1806d9dd2153b8736/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f637279696e672e676966)	Crying
+> `:(`	☹️🙁	![Sad or frown face](https://camo.githubusercontent.com/adbf72d80fc9480cf0d33f4074f4208371fd0587fea4137758332c1cce8288a4/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7361642d6f722d66726f776e2d666163652e676966)	Sad
+> `:(|)`	🐵	![Monkey](https://camo.githubusercontent.com/2aeadaa2e1a3ee7ce3eeb17ff57e180e5745db9214d054eaeebbfd21795f32ba/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6d6f6e6b65792e676966)	Monkey
+> `:))`	😀 😃 😄 😆	![Laughing](https://camo.githubusercontent.com/2ed194aad48521e1dfdf7aab2222db58bf3085ae95a79590849814bd5060eaa4/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6c61756768696e672e676966)	Laughing
+> `:)]`	🤙?	![On the Phone](https://camo.githubusercontent.com/e5cd898a83302076151012784ebc9ede0e4f5c2f692f79c227ae31476dc08a6c/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6f6e2d7468652d70686f6e652e676966)	On the Phone
+> `:)`	☺️ 🙂 😊	![Smile or happy face](https://camo.githubusercontent.com/5cb4101c33b796b4d897e7424e154b6c4ebbb51d0a151aa5a1086d0c47c22f9c/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f736d696c652d6f722d68617070792d666163652e676966)	Smile
+> `:)>-`	✌️	![Peace](https://camo.githubusercontent.com/2647621425f503a8a7f51746fcf70f4d6634d155fcd1060f4b37ecaa4a78351b/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f70656163652e676966)	Peace
+> `:@)`	🐷	![Pig](https://camo.githubusercontent.com/d772d5437d6558bf801b4b746c148c4d8f44c3a50ace5fc788b0b3980419d4f3/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7069672e676966)	Pig
+> `:^o`	🤥	![Liar Liar](https://camo.githubusercontent.com/c01f69496d170cc9f392e2ec62220fe30edb0819d0e1cc0bb17a4af5ef244579/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6c6961722d6c6961722e676966)	Liar Liar
+> `:>`	😤? 😏?	![Smug](https://camo.githubusercontent.com/22a93298f0bb9782d1a39f02acb7f98e76a341dc571c4a17428bdc2559e3a2f1/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f736d75672e676966)	Smug
+> `:|`	😐😑	![Straight face](https://camo.githubusercontent.com/fe14ec04f4254519b227b0a932b0b45c5bd56e865cfa416db67fd7e545224586/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f73747261696768742d666163652e676966)	Straight face
+> `:D`	😀😃	![Big Grin](https://camo.githubusercontent.com/a143650d8366f32567675ae1aafb80281b6d6967463149d0bc7cbcc24ea1b6c9/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6269672d6772696e2e676966)	Big Grin
+> `:O)`	🤡	![Clown](https://camo.githubusercontent.com/8ec0ccfe71138f08b68cdbf609a6ade3c18d33dd4a735347ae7842437133d472/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f636c6f776e2e676966)	Clown
+> `:o3`	🐶	![Dog](https://camo.githubusercontent.com/ad8a4467153041f9f9e1e0865057dbde3b8c29c9c073b3858e860c81d7ae8a19/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f646f672e676966)	Dog
+> `:P`	😛 (😋 😖 😫)	![Frustrated or Sticking Tongue Out](https://camo.githubusercontent.com/f28302f6a29271276a69ea45f020fbc8b3898e0679a431320cd8e7bae0a35975/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f667275737472617465642d6f722d737469636b696e672d746f6e6775652d6f75742e676966)	Sticking Tongue Out
+> `:x`	😍 (😚 😘 😗 😙)	![Love Struck](https://camo.githubusercontent.com/3bed4258cf9923aea9b3e76b221be69b96a8572173dd2652207da685caec141a/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6c6f76652d73747275636b2e676966)	Love Struck
+> `(:|`	😫 😪 😑 😐	![Yawn](https://camo.githubusercontent.com/27d2b43acabdcecea8ed39d2be3aadcfefc274f9aa6f838a8b6f503f5a0e6c3b/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7961776e2e676966)	Yawn
+> `[-(`	(😡 😶 😒)	![Not talking](https://camo.githubusercontent.com/2b1ac603e3976ff004802fb7fd4d2b60ef3cccfbf3ef2d8cff7d3aea6d691df7/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6e6f742d74616c6b696e672e676966)	Not talking
+> `[-o<`	🙏 (🙇)	![Praying](https://camo.githubusercontent.com/a834ae93cf5c5267b8b928d87cacf85eb6aa78511ab77686f38e3c53441d7264/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f70726179696e672e676966)	Praying
+> `[-x`	(☝️)	![Shame on You](https://camo.githubusercontent.com/43c4d6920f03bb9a9e0b67109a049610714a2cd255fb2356820b71177ab0d9d0/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7368616d652d6f6e2d796f752e676966)	Shame on You
+> `@-)`	😵 💫	![Hypnotized](https://camo.githubusercontent.com/37b9deb4db98bc01d64671c197ee7398038ee5e1b37e2d072eca5c6d1bbcae6e/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6879706e6f74697a65642e676966)	Hypnotized
+> `*-:)`	💡 🕯	![Idea](https://camo.githubusercontent.com/89aa937a6bd2d35195c1e5b2ab8827f8693217341a9652a2c9aceedf8100ba2d/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f696465612e676966)	Idea
+> `/:)`	[(Unicode 10) 🤨](http://emojipedia.org/face-with-one-eyebrow-raised/)	![Raised Eyebrow](https://camo.githubusercontent.com/3e92532b7b23e5fa93fc5860e9fcc8d68c3a53598a0381d699a211bb8e75e414/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7261697365642d65796562726f772e676966)	Raised Eyebrow
+> `#-o`	🤦?	![Doh!](https://camo.githubusercontent.com/eff4d9975a3c397ea8779ec800c9c7636afbb7924451eb01e95c7c3fbbbc3d89/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f646f68212e676966)	D’oh!
+> `#:-S`	😅 😥 😖?	![Whew](https://camo.githubusercontent.com/63bd93641aa9d89bb5032cc6904fd5409dac180f997cec70e1e393358d3951c0/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f776865772e676966)	Whew
+> `%-(`	(🙉)	![Not Listening](https://camo.githubusercontent.com/a7311f95f1cd2163f6ca1b68b0416bdaa593a1a57ebdbb85e4fe98dee7f5ff1d/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6e6f742d6c697374656e696e672e676966)	Not Listening
+> `<:-P`	😛 (🎉 🎊)	![Party](https://camo.githubusercontent.com/17f2a32a201e4602e3f3746372ff921626fd774b4ef781e7a3bc94b7661f6784/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f70617274792e676966)	Party
+> `<):)`	🤠	![Cowboy](https://camo.githubusercontent.com/562fb76dfb6ed215e53b767e7dfe1888288be4d720f95a4146c02b54fa7358d9/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f636f77626f792e676966)	Cowboy
+> `=;`	🖐 ✋	![Talk to the Hand](https://camo.githubusercontent.com/53e9f30a54b65c8751f99de5d719e53d297bfc9bd84391e67c551f1c05ce0dbd/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f74616c6b2d746f2d7468652d68616e642e676966)	Talk to the Hand
+> `=:)`	🐛?	![Bug](https://camo.githubusercontent.com/ee13083f782641ef86b92c9a4ddd7bb8a7edab4e43c23654bb6152cc253b5f02/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6275672e676966)	Bug
+> `=">`	😳	![Blushing](https://camo.githubusercontent.com/19d8ff92b233adf97de3b8dcb80fe48d68a70c888071fdf996c371c57dbde044/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f626c757368696e672e676966)	Blushing
+> `=((`	💔?	![Broken Heart](https://camo.githubusercontent.com/ef6baa4b88c3207cf5809e7f9a714713afdfc337f4c7e23fead2b6b5df7b7aec/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f62726f6b656e2d68656172742e676966)	Broken Heart
+> `=))`	🤣	![Rolling on the Floor Laughing](https://camo.githubusercontent.com/2ac8d6af1c6405b42f4a5eee3188548cf8eb32a17e232d5dab5775a3db1064c9/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f726f6c6c696e672d6f6e2d7468652d666c6f6f722d6c61756768696e672e676966)	Rolling on the Floor Laughing
+> `=D>`	👏	![Applause](https://camo.githubusercontent.com/f4de79c30908c55c7ca4f9c87743de4b44c6820e650eb09d5a75c0a945ba41fa/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6170706c617573652e676966)	Applause
+> `=P~`	🤤	![Drooling](https://camo.githubusercontent.com/6150ccccb62168b88dcf1f2f1697843a88fa3e190a75e5bb0266d37ba0137755/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f64726f6f6c696e672e676966)	Drooling
+> `>-)`	👽 👾	![Alien](https://camo.githubusercontent.com/a4f18cc83fb06bf0488e8b6dc3c0bdf1c210b51b9a384068d12ed830c6160789/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f616c69656e2e676966)	Alien
+> `>:)`	😈 👿 👹	![Devil](https://camo.githubusercontent.com/350bed06f13c41ede11c0b09dc33f71f2bc62340e65424ad7bbb89830f7e5686/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f646576696c2e676966)	Devil
+> `>:/`	😏 (🤚)	![Bring it On](https://camo.githubusercontent.com/58248eb237ce80261798f6385183f9c3764669ef46201cbddf2d95959b3f05fc/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6272696e672d69742d6f6e2e676966)	Bring it On
+> `>:P`	😝?	![Phbbbbt or upset](https://camo.githubusercontent.com/c64d66f022b9c5ce34e37aa83e52a5ba239b0b755882beb09d3b11049a655eb7/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f706862626262742d6f722d75707365742e676966)	Phbbbbt
+> `|-)`	😪 😫 😩	![Sleepy](https://camo.githubusercontent.com/963e72cc80c7a62b09de0f53e587549709cce88f0faec72a0499543634005db8/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f736c656570792e676966)	Sleepy
+> `~:>`	🐔	![Chicken](https://camo.githubusercontent.com/1a8ecd8b38a94f2ad5c36395ebaef4274a14c921318661a3d1be22f651fb2865/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f636869636b656e2e676966)	Chicken
+> `~X(`	😖 😫 😵?	![At Wits End](https://camo.githubusercontent.com/37fc7db89ea162b2a03c058b6b5df0603596c60eb08bbdfc1d77d9bed8764000/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f61742d776974732d656e642e676966)	At Wits End
+> `$-)`	🤑	![Money Eyes](https://camo.githubusercontent.com/f34cc75795d8ad6657f8d8f7187856c02975e0c7e2df4ee1c88d6a17abf005ae/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6d6f6e65792d657965732e676966)	Money Eyes
+> `3:-O`	🐮	![Cow](https://camo.githubusercontent.com/b4e167c83f4d27af52aef93889b1368522d9ce0331a5d9ebe0a6c8ec5d3f3cd1/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f636f772e676966)	Cow
+> `8-}`	[🤪 (Unicode10)](http://emojipedia.org/grinning-face-with-one-large-and-one-small-eye/)	![Silly](https://camo.githubusercontent.com/403f155924b4085393463027a68457a5e5cda742e62b76fb22c7209ddc0ea19f/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f73696c6c792e676966)	Silly
+> `8->`		![Daydreaming](https://camo.githubusercontent.com/ef7c9e056c230c83a126ed359ebd2346e2233c0bc35d0e97efdedf7406722993/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f646179647265616d696e672e676966)	Daydreaming
+> `8-|`	🙄	![Rolling Eyes](https://camo.githubusercontent.com/3089a3f5667eb08bf27e1007123021d1f39ff4ccc5ea1421f51a407a89f5b3ac/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f726f6c6c696e672d657965732e676966)	Rolling Eyes
+> `8-X`	💀 ☠️	![Skull](https://camo.githubusercontent.com/1b7b5aa05578e5f7e9a242854dd4792a7f986835abe86b30832056cae98f3963/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f736b756c6c2e676966)	Skull
+> `b-(`		![Beat Up](https://camo.githubusercontent.com/0537f089d7587d0635094c85011c4f8129c20f63cbb6c5d444d78de1807cc2c4/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f626561742d75702e676966)	Beat Up
+> `b-)`		![Beat Up](https://camo.githubusercontent.com/0537f089d7587d0635094c85011c4f8129c20f63cbb6c5d444d78de1807cc2c4/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f626561742d75702e676966)	Beat up
+> `B-)`	😎 (🕶)	![Sunglasses or cool](https://camo.githubusercontent.com/48909663d6ca35956c248d809d29f8f78bccf5b73884e318c4b1f4793313ba3c/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f73756e676c61737365732d6f722d636f6f6c2e676966)	Cool, Sunglasses
+> `L-)`	#26	![Loser](https://camo.githubusercontent.com/44b474f88cf8fea3722fefe9494d4351da7944d7ace27eb515a8db18243eac76/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6c6f7365722e676966)	Loser
+> `O:)`	😇 👼	![Angel](https://camo.githubusercontent.com/07dbb4938d6bcffd4a9cf7e1f11a2c70a399fd0654ae905fa5a6486e7cdf3454/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f616e67656c2e676966)	Angel
+> `X(`	(😖 😣 😡)	![Angry or Grumpy](https://camo.githubusercontent.com/163d3e0cf988b5b967eb96954f3a27a1a987503fd684ccf9b8875d28fffd7806/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f616e6772792d6f722d6772756d70792e676966)	Angry
+> Code	Unicode	Description	Image
+> `>:D<`	🤗	![Big Hug](https://camo.githubusercontent.com/7ccb0bef392631c1e93caff2128368c740fa565bf692145dfeca23155246f41f/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6269672d6875672e676966)	Big Hug
+> `\:D/`	🙌 💃	![Dancing](https://camo.githubusercontent.com/5f2bcedd18272c7c5c8807d0033ce570e345be4cfe81c512c38723fef1d9ae6c/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f64616e63696e672e676966)	Dancing
+> `^:)^`	🙇?	![Not Worthy](https://camo.githubusercontent.com/faf0ff34273b926190cc76618b426789bfecb701daf86f515b216e9bf6022b6c/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6e6f742d776f727468792e676966)	Not Worthy
+> `^#(^`	👐?	![It Was Not Me](https://camo.githubusercontent.com/805c4824a0f6a868097b75b6d492bc6a4be60e90205ba795621066a450ade4bc/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f69742d7761732d6e6f742d6d652e676966)	It Was Not Me
+> `X_X`	(🙈 😵)	![I Do Not Want to See](https://camo.githubusercontent.com/dfe1be47463f6b33b3b10090618cd26728cb4f87127db20e955058749de7c7b8/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f692d646f2d6e6f742d77616e742d746f2d7365652e676966)	I Do Not Want to See
+> `[..]`	🤖 👾	![Transformer](https://camo.githubusercontent.com/7d56fb28a984a715c20a7a01df6f0b6cabcfd454b0306290ce5449e098fb4964/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7472616e73666f726d65722e676966)	Transformer
+> Code	Unicode	Description	Image
+> `:-bd`	👍	![Thumbs Up](https://camo.githubusercontent.com/37f0a4751efb422bb310d0162443ef597e9c4109943c03a9f0e78b8f7a09cf1a/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7468756d62732d75702e676966)	Thumbs Up
+> `:-c`	🤙	![Call Me](https://camo.githubusercontent.com/2ac27c7269c451391ca0552809b30796bc6ecd2e1b2d7cc366ae4e7a3424c6f8/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f63616c6c2d6d652e676966)	Call Me
+> `:-h`	👋	![Wave](https://camo.githubusercontent.com/7fe42987f26b01be971ae7bf8d6b62d71cbd68e5d96fa787a792a1e88707f2df/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f776176652e676966)	Wave
+> `:-q`	👎	![Thumbs Down](https://camo.githubusercontent.com/2ce9baaaf9f663b1fc2354f589f1629cd8dece4f385ea5ce1385755353adbb9b/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7468756d62732d646f776e2e676966)	Thumbs Down
+> `:-t`		![Time Out](https://camo.githubusercontent.com/476df62b4b413b9715a537213d62a7df6275b3c9b989d06d6c6ace4132314d9d/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f74696d652d6f75742e676966)	Time Out
+> `:-w`		![Waiting](https://camo.githubusercontent.com/889fe2b532bb04d53ae552cd71ccad6eb3eb9f461f97d4539605653e70271e4a/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f77616974696e672e676966)	Waiting
+> `:ar!`	#148	![Pirate](https://camo.githubusercontent.com/73ee56017c0ed007074015c866461cbfa929039dd5084352ba24d859870b3544/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f7069726174652e676966)	Pirate
+> `:bz`	🐝	![Bee](https://camo.githubusercontent.com/7a35fa31c0e551e8b47bffec45a3dae46f6786c8826ea7fdd8c7e8214f53bd0c/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6265652e676966)	Bee
+> Code	Unicode	Description	Image
+> `(*)`	⭐️ 🌟 (✨)	![Star](https://camo.githubusercontent.com/6241a11577596215eded92a68d52d649c52670ee5f6c419586d04fc42a1324a8/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f737461722e676966)	Star
+> `(%)`	☯️	![Yin Yang](https://camo.githubusercontent.com/48330b1433bca949a4c5558eeb520bbd4509600207e81ed6ca7b207143dd5331/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f79696e2d79616e672e676966)	Yin Yang
+> `(~~)`	🎃	![Pumpkin](https://camo.githubusercontent.com/e3a386a586fc8046eb53386729825599725a4e8ac1e96ab04ccd7afca4c29528/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f70756d706b696e2e676966)	Pumpkin
+> `@};-`	🌹	![Rose](https://camo.githubusercontent.com/a811331bdbdf1450c632d28456dfad94208c6a420de1a8265feb6386762f7c07/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f726f73652e676966)	Rose
+> `**==`	🇺🇸	![United States Flag](https://camo.githubusercontent.com/d85ef3c5f37edf321d0b06ed644a8dd9d09790f8e0d9215de2f92ff7f188dc85/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f756e697465642d7374617465732d666c61672e676966)	United States Flag
+> `\m/`	🤘	![Rocking](https://camo.githubusercontent.com/38f690a908c17f0d5bf414d18afb18eee3426672a6292866fc3f823446b13629/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f726f636b696e672e676966)	Rocking
+> `%%-`	🍀	![Good luck or Four Leaf Clover](https://camo.githubusercontent.com/7bf8b4e8aafe08ff0655d5b8a67888556d84047520f5cc488c36f9d13a045343/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f676f6f642d6c75636b2d6f722d666f75722d6c6561662d636c6f7665722e676966)	Four Leaf Clover
+> `~o)`	☕️	![Cup of Coffee](https://camo.githubusercontent.com/6da7da172694941d18694f2a417eff21371819f0de4dd168517ef7ccb64a03c3/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6375702d6f662d636f666665652e676966)	Cup of Coffee
+> `0-+`	♀️ 👩	![April](https://camo.githubusercontent.com/81cbf778f3cfd64090e4d72f1576e91efc8854fe14b5f9e03afdcbffa56c687d/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f617072696c2e676966)	April
+> `o->`	♂️ 👨	![Hiro](https://camo.githubusercontent.com/73b7aa410ac67c7b50eeae2a9f8619ee0ff424784846d495c2513e61f2cf3064/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f6869726f2e676966)	Hiro
+> `o=>`	⚣️ 🧑	![Billy](https://camo.githubusercontent.com/da6934f0e51ddb9d7ec1da211607b0e86de8640e3b066321f1f0e4b0772f41b6/687474703a2f2f7777772e656d6f7469636f6e722e636f6d2f64657369676e2f7961686f6f2f62696c6c792e676966)	Billy
+> ## Proposals
+> * [L2/09-007 Comparison of Emoticons from Major Vendors by Arle Lommel](http://www.unicode.org/L2/L2009/09007-emoticons.pdf): Unification of emoticon characters with current proposals for encoding emoji (v1.5, 2008-12-26) – Skype [Skype emoticons list #253](https://github.com/Crissov/unicode-proposals/issues/253), Microsoft Messenger [Microsoft/Windows Live / MSN Messenger emoticons list #256](https://github.com/Crissov/unicode-proposals/issues/256), Yahoo Messenger, AIM [AOL Instant Messenger (AIM) emoticons list #257](https://github.com/Crissov/unicode-proposals/issues/257), Google [Google Gmail/Hangouts emoticons list #252](https://github.com/Crissov/unicode-proposals/issues/252), phpBB [phpBB Emoticon list #281](https://github.com/Crissov/unicode-proposals/issues/281), vBulletin.
+> 
+> ## Conclusion
+> While some Yahoo emoticons have no definite Unicode counterpart, but several closely related ones, some have no standard equivalent at all or would require a canonical emoji sequence:
+> 
+> * [ ]  Batting Eyelashes [Face Wearing Makeup emoji #3](https://github.com/Crissov/unicode-proposals/issues/3)
+> * [ ]  Chatterbox
+> * [ ]  Oh Go on
+> * [ ]  Hurry up
+> * [ ]  On the phone
+> * [ ]  Peace
+> * [ ]  Love Struck
+> * [ ]  Not Talking
+> * [ ]  Praying
+> * [ ]  Shame on you
+> * [ ]  Idea
+> * [ ]  Not listening
+> * [ ]  Talk to the Hand
+> * [ ]  Broken Heart
+> * [ ]  Applause
+> * [ ]  Bring it on
+> * [ ]  Phbbbt
+> * [ ]  At Wits End
+> * [ ]  Daydreaming
+> * [ ]  Beat up
+> * [ ]  Loser
+> * [ ]  Dancing
+> * [ ]  Not Worthy
+> * [ ]  It was not Me
+> * [ ]  I do not want to See
+> * [ ]  Thumbs up
+> * [ ]  Call Me
+> * [ ]  Wave
+> * [ ]  Thumbs down
+> * [ ]  Time out
+> * [ ]  Waiting
+> * [ ]  Pirate [Face with Eyepatch emoji #148](https://github.com/Crissov/unicode-proposals/issues/148)
+> * [ ]  Rocking
 
